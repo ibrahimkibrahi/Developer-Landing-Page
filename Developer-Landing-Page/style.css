@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Roberto', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(221, 227, 233);
+    padding-top: 15em;
+    padding-left: 3em;
+}
+
+main > .intro{
+    font-family: 'Reem kufi', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.icon-social{
+    font-size: 3em
+}
+
+main > .tagline{
+    font-family: 'Roberto';
+    font-size: 1.2em ;
+    
+}
+
+main > .icon{
+    text-align: center;
+    padding-top: 1em;
+    font-size: 3.5em;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(82, 82, 81);
+}
+
